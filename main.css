@@ -10,6 +10,10 @@
 	margin: auto;
 }
 
+body {
+   min-height: 100vh;
+}
+
 @-ms-viewport {
   width: device-width ;
 }
