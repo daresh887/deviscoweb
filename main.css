@@ -10,6 +10,10 @@
 	margin: auto;
 }
 
+@-ms-viewport {
+  width: device-width ;
+}
+
 header
 {
 	background: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)), url(https://i.ytimg.com/vi/mYrKAMLbjYA/maxresdefault.jpg);
